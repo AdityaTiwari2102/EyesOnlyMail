@@ -1,0 +1,2 @@
+# EyesOnlyMail2
+Like email, only effortlessly private.  You don't have to manage keys or understand anything about cryptography.  End-to-end encryption.  We don't have your keys, can't read your messages, can't know who your friends are -- there's no way for us to even know who you are.  Free.  We'd have to know who you were to charge you, so that's out.  Works on most desktops, laptops and phones.
